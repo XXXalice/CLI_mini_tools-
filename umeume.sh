@@ -1,5 +1,5 @@
-#!bin/sh
+#!bin/bash
 
 sh pathing.sh
 
-echo 'umeume'
+echo 'umeumedayo'
